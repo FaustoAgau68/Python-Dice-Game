@@ -26,7 +26,7 @@ cd dice-game
 
 🎮 How to Play
 Run the script:
-python game.py
+python dice_rolling_game.py
 
 The game prompts a player to roll the dice.
 If the player rolls a 6, they roll again.
