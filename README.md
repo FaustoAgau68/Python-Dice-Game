@@ -1,6 +1,6 @@
 # 🎲 Python Dice Game
 
-A simple Python-based dice rolling game where two players take turns rolling a die. The game follows standard rules where rolling a 6 grants an extra turn.
+A simple Python-based dice rolling game where two players take turns rolling a dice. The game follows standard rules where rolling a 6 grants an extra turn.
 
 ## 📌 Features
 - Two-player turn-based gameplay
